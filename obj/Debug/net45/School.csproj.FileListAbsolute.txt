@@ -1,0 +1,8 @@
+C:\Users\инет\Desktop\MyRepos\Homework2-master\obj\Debug\net45\School.csprojAssemblyReference.cache
+C:\Users\инет\Desktop\MyRepos\Homework2-master\obj\Debug\net45\School.csproj.CoreCompileInputs.cache
+C:\Users\инет\Desktop\MyRepos\Homework2-master\obj\Debug\net45\School.AssemblyInfoInputs.cache
+C:\Users\инет\Desktop\MyRepos\Homework2-master\obj\Debug\net45\School.AssemblyInfo.cs
+C:\Users\инет\Desktop\MyRepos\Homework2-master\bin\Debug\net45\School.exe
+C:\Users\инет\Desktop\MyRepos\Homework2-master\bin\Debug\net45\School.pdb
+C:\Users\инет\Desktop\MyRepos\Homework2-master\obj\Debug\net45\School.exe
+C:\Users\инет\Desktop\MyRepos\Homework2-master\obj\Debug\net45\School.pdb
