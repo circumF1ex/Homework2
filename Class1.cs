@@ -78,21 +78,19 @@ namespace School
                 {
                     case Jobs.Senior:
                         teachers.Add(new Teacher(FIO, Jobs.Senior));
-                        message = $"{FIO}: {jobes}";
-                        break;
+                        return $"{FIO}: {jobes}";
+                        //break;
 
                     case Jobs.Assistant:
                         teachers.Add(new Teacher(FIO, Jobs.Assistant));
-                        message = $"{FIO}: {jobes}";
-                        break;
+                        return $"{FIO}: {jobes}";
                 }
                 return message;
             }
             public string JAction2(string FIO, int SGroup) //метод для создания студента
             {
                 students.Add(new Student(FIO, SGroup));
-                string message = $"Создан студент {FIO}: учебная группа {SGroup}";
-                return message;
+                return $"Создан студент {FIO}, учебная группа №{SGroup}";
             }
         }      
     }

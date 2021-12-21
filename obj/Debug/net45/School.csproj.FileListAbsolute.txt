@@ -16,3 +16,11 @@ C:\Users\1\Desktop\ДЗ2\Homework2\Homework2\obj\Debug\net45\School.pdb
 C:\Users\1\Desktop\ДЗ2\Homework2\Homework2\bin\Debug\net45\School.exe.config
 C:\Users\1\Desktop\ДЗ2\Homework2\Homework2\bin\Debug\net45\School.exe
 C:\Users\1\Desktop\ДЗ2\Homework2\Homework2\bin\Debug\net45\School.pdb
+C:\Users\инет\Desktop\Новая папка (7)\Homework2\bin\Debug\net45\School.exe
+C:\Users\инет\Desktop\Новая папка (7)\Homework2\bin\Debug\net45\School.pdb
+C:\Users\инет\Desktop\Новая папка (7)\Homework2\obj\Debug\net45\School.csprojAssemblyReference.cache
+C:\Users\инет\Desktop\Новая папка (7)\Homework2\obj\Debug\net45\School.csproj.CoreCompileInputs.cache
+C:\Users\инет\Desktop\Новая папка (7)\Homework2\obj\Debug\net45\School.AssemblyInfoInputs.cache
+C:\Users\инет\Desktop\Новая папка (7)\Homework2\obj\Debug\net45\School.AssemblyInfo.cs
+C:\Users\инет\Desktop\Новая папка (7)\Homework2\obj\Debug\net45\School.exe
+C:\Users\инет\Desktop\Новая папка (7)\Homework2\obj\Debug\net45\School.pdb
